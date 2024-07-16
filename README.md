@@ -1,4 +1,4 @@
-# MIPS Assembly Study Repository
+# MIPS Assembly Study
 Welcome to the MIPS Assembly Study Repository! This repository contains MIPS assembly language code examples designed for my studies in the computer architecture module at university.
 
 ## Structure
